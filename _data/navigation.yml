@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://anhpham52.github.io/harmlessecon/about/
+    url: https://anhpham52.github.io/harmlessecon/docs/_pages/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
